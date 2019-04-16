@@ -19,8 +19,7 @@ int main(){
 				printf("        x%dの係数 = ", j+1);
 				scanf("%lf%c", &a[k][j], &zz);
 			}
-			printf("\n");
-			printf("        右辺の値 = ");
+			printf("\n        右辺の値 = ");
 			scanf("%lf%c", &a[k][n], &zz);
 			printf("\n");
 		}
